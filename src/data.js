@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Worked with a team to construct a web application that allows users full CRUD on text posts on any topic. Created the backend to store the information of the user and all the posts they make.",
     image: "./orange.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/erikcorea/Orange-Frontend",
   },
   {
     title: "Spanish Flashcards",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Allows users to study some of the most used phrases in the Spanish Language. Utilized Javascript to take out phrases you have mastered and leave them in if you still need help with them.",
     image: "./spanish-cards.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/erikcorea/flash-card",
   },
   {
     title: "Quote Generator",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Created a front-end web applicatoin that allows users to see random generated quotes. They are able to display the random quote they generated to their Twitter account.",
     image: "./quote.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/erikcorea/quote_gen",
   },
   {
     title: "Code Connections",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "I created a full-stack application that allows users to find fellow programmers to work on a project together. Users will have full CRUD on thier posts looking for people.",
     image: "./code-connections.jpg",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/erikcorea/fe-final-project",
   },
 ];
 
