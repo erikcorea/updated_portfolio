@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Worked with a team to construct a web application that allows users full CRUD on text posts on any topic. Created the backend to store the information of the user and all the posts they make.",
     image: "./orange.png",
-    link: "team-orange4.herokuapp.com",
+    link: "http://team-orange4.herokuapp.com/",
   },
   {
     title: "Spanish Flashcards",
