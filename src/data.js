@@ -59,4 +59,6 @@ export const skills = [
   "Python",
   "Django",
   "PostgreSQL",
+  "AWS",
+  "Terraform"
 ];

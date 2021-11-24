@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />software engineer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Hello! I'm Erik Correa, a Chicago based software engineer (willing to relocate). I am experienced in full stack development. My skills allow me to tackle complex programming problems presented on the job. My love for programming stems from my passion to know how things work, how to build them, and how to fix them. Contact me to get started working together!
+            Hello! I'm Erik Correa, a New York based software engineer (willing to relocate). I am experienced in full stack development. My skills allow me to tackle complex programming problems presented on the job. My love for programming stems from my passion to know how things work, how to build them, and how to fix them. Contact me to get started working together!
           </p>
           <div className="flex justify-center">
             <a
